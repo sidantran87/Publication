@@ -1,7 +1,7 @@
 # Hi there, I'm Si Dan! 👋 (Tran Si Dan)
 
 ### 📊 Data Analyst | Analytics Engineer
-Tôi là một người đam mê dữ liệu, hiện đang tập trung vào việc chuyển đổi các yêu cầu kinh doanh phức tạp thành các hệ thống phân tích và kiến trúc dữ liệu hiệu quả. Với nền tảng từ **Hệ thống thông tin quản lý (MIS)** tại UEL, tôi kết hợp tư duy giải quyết vấn đề với các công nghệ hiện đại như AI và Big Data để tạo ra giá trị thực tế cho doanh nghiệp.
+Tôi là một Analytics Engineer/Data Analyst với tư duy của một Data Problem Solver/Consultant. Thay vì chỉ xây dựng các bảng biểu, tôi tập trung vào việc giải các bài toán kinh doanh phức tạp thông qua dữ liệu để tìm ra nguyên nhân gốc rễ và đưa ra các đề xuất thực thi. Với nền tảng từ Hệ thống thông tin quản lý (MIS) , tôi kết hợp kỹ thuật xử lý dữ liệu hiện đại với khả năng phân tích để giúp doanh nghiệp tối ưu hóa chi phí, cải thiện trải nghiệm khách hàng và thúc đẩy tăng trưởng bền vững dựa trên những bằng chứng xác thực.
 
 ---
 
